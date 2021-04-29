@@ -1,0 +1,1 @@
+is_this_true(_):-(1 is 1).
